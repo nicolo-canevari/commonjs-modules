@@ -21,6 +21,6 @@ function createFullProfile() {
 
 }
 
-// Stampo per vedere l'output
+// Stampo per vedere l'output (node ./js/people)
 console.log(createFullProfile());
 
