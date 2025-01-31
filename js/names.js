@@ -10,3 +10,5 @@ function createPerson(firstName, lastName) {
 
 }
 
+// Esporto la funziona per poterla utilizzare in altri file
+module.exports = createPerson;
