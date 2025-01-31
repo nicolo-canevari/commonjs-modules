@@ -21,5 +21,6 @@ function createFullProfile() {
 
 }
 
+// Stampo per vedere l'output
 console.log(createFullProfile());
 
